@@ -1,0 +1,83 @@
+{
+    "app_title": "Don Pé Restaurant",
+    "language": "Idiomas",
+    "nav_bar_Home": "Inicio",
+    "nav_bar_Services": "Servicios",
+    "nav_bar_Galery": "Galería de fotos",
+    "nav_bar_Bookings": "Reservaciones",
+    "nav_bar_Maps": "Mapas",
+    
+    "brand":{
+        "title":"Le damos la bienvenida a nuestro establecimiento.",
+        "subtitle1": "Elaborando alimentos decilius desde 1990.",
+        "subtitle2": "Reserva o llama al +34 952 478 351"
+    },
+
+    "history":{
+        "title": "Nuestra historia",
+        "text1":"En nuestro restaurante podrá disfrutar de una agradable velada con sus amigos, su pareja o su familia en un ambiente cálido y cercano, un trato personalizado y una generosa amistad.",
+        "text2":"Queremos que nuestros clientes tengan una experiencia inolvidable, para ello, nuestro personal se ofrece a atenderles y servirles una buena variedad de platos de primera calidad, cocinados con recetas tradicionales, que le recordaran su visita por nuestro restaurante. Mas de tres decadas nos avalan.",
+        "text3":"Nos esforzamos para ofrecer la mejor calidad al mejor precio."        
+
+    },
+
+    "Satisfied":{
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. A mauris nisl elit massa duis est ut. Diam non urna imperdiet tempus. Amet pellentesque id tristique augue lacus sem vulputate sit lorem.",
+        "num1":"1550",
+        "num2":"125",
+        "num3":"35",
+        "num4":"18",
+        "subtitle1":"Invitados satisfechos",
+        "subtitle2":"Almuerzos todos los días",
+        "subtitle3":"Mesas familiares",
+        "subtitle4":"Miembros del equipo"
+    },
+
+    "Offers":{
+        "title": "Special Offers",
+        "dish1": "Sea Food Salada",
+        "dish2": "Salmon Orange",
+        "dish3": "Sea Bass",
+        "dish4": "Crab meat",
+        "ingredient1": "Avocado/ Salmon/ Olives",
+        "ingredient2": "Avocado/ Salmon/ Olives",
+        "ingredient3": "Avocado/ Salmon/ Olives",
+        "ingredient4": "Avocado/ Salmon/ Olives"
+    },
+    
+    "price":{
+        "price1":"92,99€",
+        "price2":"92,99€",
+        "price3":"92,99€",
+        "price4":"92,99€"
+
+    },
+
+
+    "assignature":{
+        "Israel": "Israel,",
+        "Cristobal": "Cristóbal"
+    },
+    
+    "chefhistory":{
+        "title":"Nuestro Chef",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Porta potenti eget condimentum amet nulla lorem erat in. Odio sagittis, leo dignissim in mattis eu suscipit in donec. Nibh nisl nunc nulla at sollicitudin imperdiet pretium. Elementum risus, id a urna. Mattis nunc quis non lobortis amet cursus quisque quis. Sit elementum sit feugiat nunc ultrices feugiat mattis rhoncus, feugiat. Elit elementum suspendisse aliquam ut sed porttitor tempus sagittis. Porttitor eleifend justo pellentesque augue enim. Id sed pharetra duis morbi tempor. Tempor justo, ipsum sit ipsum, donec commodo, et."
+
+    },
+
+    "testimonials":{
+        "title": "Testimonios"
+    },
+
+
+    "copyright":{
+        "2022": "Todos los derechos reservados 2020®"
+    },
+
+    "location":{
+        "local": "c/ de la Cruz, 17, 29640-Fuengirola (Málaga)",
+        "phone": "+34 952478351 +34 660029570"
+    }
+    
+
+}

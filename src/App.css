@@ -1,38 +1,81 @@
-.App {
-  text-align: center;
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap);
+
+
+* {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.logosize{
+  width: 80%;
+  height: auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.textcolor {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.h-title {
+  white-space: nowrap;
+  font-size: 200%;
+  font-weight: 700;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.h-subtitle {
+  font-size: 100%;
+}
+
+.p-title {
+  font-size: 150%;
+  
+}
+
+.bold{
+  font-weight: 700;
+}
+
+
+.p-subtitle {
+  font-size: 70%;
+}
+
+.centralized {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.alignleft {
+  text-align: left;
+}
+
+#indicator {
+  position: top;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  left: 5%;
+  bottom: 0;
+  width: 20%;
+  height: 1%;
+  background-color: #fe9759;
+  border-radius: 5px;
+}
+
+
+#indicator2{
+  margin: auto; 
+  width: 10%;
+  height: 8%;
+  background-color: #fe9759;
+  border-radius: 5px;
+}
+
+.assignature {
+	text-align: left;
+	font-size: 300%;
+	font-weight: 400;
+	font-family: 'Qwitcher Grypen', cursive;
 }
