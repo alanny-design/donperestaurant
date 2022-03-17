@@ -7,6 +7,19 @@
   height: 100%;
 }
 
+
+@media (max-width: 950px) {
+  .bgOffers {
+    height: 200%;
+    resize: both;
+    background-size: cover;
+    background-position: center center;
+    width: auto;
+    height: auto;
+  }
+}
+
+
 .imagOffers {
   width: 100%;
   height: 70%;

@@ -24,7 +24,7 @@ function Satisfied() {
         <Row className='boxsize'>
             <Col>
             <img className="icones" src={Satisfiedimg} alt="Satisfied guests in our restaurant"/>
-            <p className="p-title m-0"> 
+            <p className="p-title bold m-0"> 
                     {t('Satisfied.num1')}
                 </p>
             <p className="p-subtitle m-0"> 
@@ -34,7 +34,7 @@ function Satisfied() {
             </Col>
             <Col>
             <img className="icones" src={Lunches} alt="Satisfied guests in our restaurant"/>
-            <p className="p-title m-0"> 
+            <p className="p-title bold m-0"> 
                     {t('Satisfied.num2')}
                 </p>
             <p className="p-subtitle m-0"> 
@@ -44,7 +44,7 @@ function Satisfied() {
 
             <Col>
             <img className="icones" src={Tables} alt="Satisfied guests in our restaurant"/>
-            <p className="p-title m-0"> 
+            <p className="p-title bold m-0"> 
                     {t('Satisfied.num3')}
                 </p>
             <p className="p-subtitle m-0"> 
@@ -55,7 +55,7 @@ function Satisfied() {
 
             <Col>
             <img className="icones" src={Team} alt="Satisfied guests in our restaurant"/>
-            <p className="p-title m-0"> 
+            <p className="p-title bold m-0"> 
                     {t('Satisfied.num4')}
                 </p>
             <p className="p-subtitle m-0"> 

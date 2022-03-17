@@ -9,6 +9,18 @@
 }
 
 
+@media (max-width: 900px) {
+    .bg{
+      height: 200%;
+      resize: both;
+      background-size: cover;
+      background-position: center center;
+      width: auto;
+      height: auto;
+    }
+  }
+
+
 .logosizefooter{
     margin-top: 4%;
     width: 10vw;
@@ -29,5 +41,10 @@
     align-content: center;
     justify-content: center;
     align-items: center;
+}
+
+.imgcontact img{
+    margin-right: 2% !important;
+    margin-bottom: 5%;
 }
 

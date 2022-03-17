@@ -13,21 +13,26 @@ function GridHistory() {
       
     <Container className="bannerhistory mt-5">
         <Row>
-            <Col xs={6} sm={6} md={4}><img className="cover mt-3 mb-0" src= {Img1} alt="Don Pé Logo"/></Col>
-            <Col xs={6} sm={6} md={4}><img className="cover mt-3 mb-0" src= {Img2} alt="Don Pé Logo"/></Col>
-            <Col xs={12} sm={12} md={4} className="mt-2 alignleft">
-            <p className="p-title bold mb-0"> {t('history.title')}</p>
+ 
+            <Col xs= {6} sm={6} md={4} className="imgsize"><img src= {Img2} alt="Don Pé Logo"/>
+                </Col>
+            <Col xs= {6} sm={6} md={4} className="imgsize">
+                <img src= {Img1} alt="Don Pé Logo"/>
+                </Col>
+            
+            <Col xs= {12} sm={12} md={6} className="mt-2 alignleft">
+            <p className="p-title bold"> {t('history.title')}</p>
             <div id="indicator"></div>
-            <p className="p-subtitle sizebox mb-0"> 
+            <p className="p-subtitle sizebox"> 
                     {t('history.text1')}
                 </p>
-                <p className="p-subtitle sizebox mb-0"> 
+                <p className="p-subtitle sizebox"> 
                     {t('history.text2')}
                 </p>
-                <p className="p-subtitle sizebox mb-0"> 
+                <p className="p-subtitle sizebox"> 
                     {t('history.text3')}
                 </p>
-                <p className="assignature mb-0"> 
+                <p className="assignature"> 
                     {t('assignature.Israel')}
                 </p>
             

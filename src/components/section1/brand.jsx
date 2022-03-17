@@ -14,13 +14,11 @@ function Brand() {
   return (
     <>
     <Container fluid className="centralized">
-        <Row>
-        <Col><img className="logosize m-2" src= {Logo} alt="Don Pé Logo"/></Col>
-        </Row>
         <Row >
             <Col>
-                <h1 className="h-title textcolor mt-5">{t('brand.title')}</h1>
-                <p className="h-subtitle textcolor mt-2">{t('brand.subtitle1')}<br></br>{t('brand.subtitle2')}</p>
+              <img className="logosize" src= {Logo} alt="Don Pé Logo"/>
+                <h1 className="h-title textcolor mt-3">{t('brand.title')}</h1>
+                <p className="h-subtitle textcolor">{t('brand.subtitle1')}<br></br>{t('brand.subtitle2')}</p>
                 
             </Col>
         </Row>

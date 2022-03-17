@@ -5,7 +5,9 @@
     "nav_bar_Services": "Servicios",
     "nav_bar_Galery": "Galería de fotos",
     "nav_bar_Bookings": "Reservaciones",
-    "nav_bar_Maps": "Mapas",
+    "nav_bar_Map": "Mapa",
+    "nav_bar_Assessments": "assessments",
+   
     
     "brand":{
         "title":"Le damos la bienvenida a nuestro establecimiento.",
@@ -22,7 +24,7 @@
     },
 
     "Satisfied":{
-        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. A mauris nisl elit massa duis est ut. Diam non urna imperdiet tempus. Amet pellentesque id tristique augue lacus sem vulputate sit lorem.",
+        "title": "El secreto de  nuestra cocina es mantener una selección de productos frescos de la zona elegida por nuestros cocineros y elaborada en el momento que usted lo solicita. Dispomos de  una extensa gama de variedades que puede degustar en nuestro refugio gastronómico abierto en 1984.",
         "num1":"1550",
         "num2":"125",
         "num3":"35",
@@ -77,6 +79,12 @@
     "location":{
         "local": "c/ de la Cruz, 17, 29640-Fuengirola (Málaga)",
         "phone": "+34 952478351 +34 660029570"
+    },
+
+    "services":{
+        "title": "Reserva",
+        "text": "Reserva tu mesa",
+        "btn": "haz tu reserva"
     }
     
 

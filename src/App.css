@@ -1,15 +1,41 @@
 @import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap);
 
-
 * {
+  margin: 0;
+  padding: 0;
+
   font-family: "Poppins", sans-serif;
   font-style: normal;
 }
 
-.logosize{
-  width: 80%;
-  height: auto;
+.bnt-secundary {
+  background-color: transparent;
+  border: 2px solid #fff;
+  font-size: 90%;
+  color: #fff;
+  padding: 1%;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.logosize {
+  max-width: 80%;
+  margin-top: 0%;
+}
+
+@media (max-width: 900px) {
+  .logosize {
+    width: 50%;
+  }
+}
+
+@media (max-width: 576px) {
+  .logosize {
+    width: 30%;
+  }
 }
 
 .textcolor {
@@ -17,8 +43,8 @@
 }
 
 .h-title {
-  white-space: nowrap;
   font-size: 200%;
+  line-height: 100%;
   font-weight: 700;
 }
 
@@ -28,13 +54,11 @@
 
 .p-title {
   font-size: 150%;
-  
 }
 
-.bold{
+.bold {
   font-weight: 700;
 }
-
 
 .p-subtitle {
   font-size: 70%;
@@ -64,9 +88,8 @@
   border-radius: 5px;
 }
 
-
-#indicator2{
-  margin: auto; 
+#indicator2 {
+  margin: auto;
   width: 10%;
   height: 8%;
   background-color: #fe9759;
@@ -74,8 +97,30 @@
 }
 
 .assignature {
-	text-align: left;
-	font-size: 300%;
-	font-weight: 400;
-	font-family: 'Qwitcher Grypen', cursive;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 2%;
+  text-align: left;
+  font-size: 300%;
+  font-weight: 400;
+  font-family: "Qwitcher Grypen", cursive;
+}
+
+@media (max-width: 900px) {
+  .h-title {
+    font-size: 5vh;
+  }
+}
+
+@media (max-width: 900px) {
+  .p-title {
+    font-size: 3vh;
+  }
+}
+
+@media (max-width: 900px) {
+  .h-subtitle,
+  .p-subtitle {
+    font-size: 2vh;
+  }
 }

@@ -1,6 +1,5 @@
 import React, {useEffect} from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
-import {Link} from 'react-router-dom';
 
 import { useTranslation } from 'react-i18next';
 import classNames from 'classnames'
@@ -65,11 +64,11 @@ export const Header = () => {
             <div className="p-flex">
               <Navbar.Toggle aria-controls="responsive-navbar-nav" />
               <Navbar.Collapse id="responsive-navbar-nav ">
-                  <Nav.Link> <Link to="/">{t('nav_bar_Home')} </Link></Nav.Link>
-                  <Nav.Link> <Link to="/">{t('nav_bar_Services')} </Link></Nav.Link>
-                  <Nav.Link> <Link to="/">{t('nav_bar_Galery')} </Link></Nav.Link>
-                  <Nav.Link> <Link to="/">{t('nav_bar_Bookings')} </Link></Nav.Link>
-                  <Nav.Link> <Link to="/">{t('nav_bar_Maps')} </Link></Nav.Link>
+                  <Nav.Link href="#home">{t('nav_bar_Home')}</Nav.Link>
+                  <Nav.Link href="#Services">{t('nav_bar_Services')}</Nav.Link>
+                  <Nav.Link href="#Bookings">{t('nav_bar_Bookings')}</Nav.Link>
+                  <Nav.Link href="#Assessments">{t('nav_bar_Assessments')}</Nav.Link>
+                  <Nav.Link href="#Map">{t('nav_bar_Map')}</Nav.Link>
 
               </Navbar.Collapse>   
             </div>
