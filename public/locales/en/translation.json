@@ -84,7 +84,8 @@
     "services":{
         "title": "Reservation",
         "text": "Booking your table",
-        "btn": "make your reservation"
+        "btn": "make your reservation",
+        "giftcard": "Gift Cards"
     }
 
 

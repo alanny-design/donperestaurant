@@ -17,7 +17,7 @@ function Footer() {
           <Col xs={6} sm={4}>
             <img className="logosizefooter" src={Logo} alt="Don Pé Logo" />
           </Col>
-          <Col xs={6} sm={3} className="alignleft">
+          <Col xs={6} sm={3} className="alignleft mt-3">
             <a href="#home" className="ml-3 p-subtitle">
               {t("nav_bar_Home")}{" "}
             </a>
@@ -28,6 +28,14 @@ function Footer() {
             <br></br>
             <a href="#Bookings" className="ml-3 p-subtitle">
               {t("nav_bar_Bookings")}{" "}
+            </a>
+            <br></br>
+            <a href="#Assessments" className="ml-3 p-subtitle">
+              {t("nav_bar_Assessments")}{" "}
+            </a>
+            <br></br>
+            <a href="#Map" className="ml-3 p-subtitle">
+              {t("nav_bar_Map")}{" "}
             </a>
           </Col>
 
@@ -56,23 +64,16 @@ function Footer() {
           </Col>
         </Row>
         <Row>
-          <Col xs={8} sm={6}>
-            <p className="p-subtitle textcolor alignleft m-0">
-              {t("copyright.2022")}
-            </p>
-          </Col>
-          <Col xs={4} sm={6}>
-
+          <Col xs={4} sm={12} className="alignright m-0 ">
           <a className="imgcontact" href="https://www.facebook.com/restaurantedonpe">
                 <img src={Facebook} alt="Facebook Account" />
               </a>
-              <a
-                className="imgcontact"
-                href="mailto: restaurantedonpe@hotmail.com"
-              >
+              <a className="imgcontact" href="mailto: restaurantedonpe@hotmail.com">
                 <img src={Email} alt="Email Adress" />
               </a>
-
+            <p className="p-subtitle textcolor mb-2">
+              {t("copyright.2022")}
+            </p>
           </Col>
         </Row>
       </Container>

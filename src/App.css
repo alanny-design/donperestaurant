@@ -15,7 +15,16 @@
   font-size: 90%;
   color: #fff;
   padding: 1%;
+
 }
+
+.bnt-secundary:hover{
+  background-color: transparent;
+  border: 2px solid #fe9759;
+  color:#fe9759;
+
+}
+
 
 body {
   overflow-x: hidden;
@@ -74,6 +83,10 @@ body {
 
 .alignleft {
   text-align: left;
+}
+
+.alignright{
+  text-align: right;
 }
 
 #indicator {

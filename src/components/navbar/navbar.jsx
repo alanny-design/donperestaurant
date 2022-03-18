@@ -49,7 +49,6 @@ export const Header = () => {
   const { t } = useTranslation()
 
   useEffect(() => {
-		console.log('Setting page stuff')
     document.title = t('app_title')
 		console.log(document.title)
   }, [currentLanguage, t])

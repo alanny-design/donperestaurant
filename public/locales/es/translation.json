@@ -84,7 +84,8 @@
     "services":{
         "title": "Reserva",
         "text": "Reserva tu mesa",
-        "btn": "haz tu reserva"
+        "btn": "haz tu reserva",
+        "giftcard": "Tarjeta Regalo"
     }
     
 

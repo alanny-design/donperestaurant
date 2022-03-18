@@ -16,6 +16,7 @@
     "i18next-http-backend": "^1.4.0",
     "js-cookie": "^3.0.1",
     "react": "^17.0.2",
+    "react-animated-3d-card": "^1.0.2",
     "react-bootstrap": "^2.2.1",
     "react-dom": "^17.0.2",
     "react-i18next": "^11.15.7",

@@ -1,15 +1,23 @@
 import React from 'react';
 import {Container,Row,Col} from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
+import Giftcard from '../gitcard/giftcard';
 
-function Booking() {
+import './style.css'
+
+export function Booking() {
    const { t } = useTranslation()
   return (
     <>
-    <Container fluid className='bgBooking mt-5 mb-5'>
-        <Row>
-            <Col>
+    <Container>
+      <Row>
+        <Col> 
             <p className="h-title textcolor mb-0 mt-5" >{t('services.title')}</p>
+            <div id="indicator2"></div>   
+            </Col>
+        </Row>
+        <Row className="mt-5">
+            <Col>
             <p className="p-title textcolor mb-0 mb-3">{t('services.text')} </p>
             <button className="bnt-secundary mb-5">{t('services.btn')}</button>
             </Col>
@@ -19,4 +27,26 @@ function Booking() {
   )
 }
 
-export default Booking
+
+
+
+
+function BookingGiftcard() {
+  return (
+    <>
+    <Container fluid className='bgBooking mt-5 mb-5'>
+      <Row>
+        <Col>
+        <Booking/>
+        </Col>
+        <Col>
+        <Giftcard/>
+        </Col>
+      </Row>
+    </Container>
+    
+    </>
+  )
+}
+
+export default BookingGiftcard
