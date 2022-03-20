@@ -22,6 +22,7 @@ export default function Giftcard() {
         
         <Row className="mt-5">
           <Col>
+          <a href="https://giftcards.thefork.com/es">
             <Card
               style={{
                 backgroundColor: "transparent",
@@ -32,17 +33,15 @@ export default function Giftcard() {
               }}
               onClick={() => console.log("Card clicked")}
             >
-              <div className="mr-4">
-                <img
-                  className="atvImg-layer"
-                  src={Bg1}
-                  alt="Buy a gold gift card"
-                />
+              <div className="mr-4" href="https://giftcards.thefork.com/es">
+                <img className="atvImg-layer" src={Bg1} alt="Buy a gold gift card"/>
               </div>
             </Card>
+            </a>
           </Col>
 
           <Col>
+          <a href="https://giftcards.thefork.com/es">
             <Card
               style={{
                 backgroundColor: "transparent",
@@ -53,17 +52,15 @@ export default function Giftcard() {
               }}
               onClick={() => console.log("Card clicked")}
             >
-              <div className="mr-4">
-                <img
-                  className="atvImg-layer"
-                  src={Bg2}
-                  alt="Buy a gold gift card"
-                />
+              <div className="mr-4" href="https://giftcards.thefork.com/es">
+                <img className="atvImg-layer" src={Bg2} alt="Buy a gold gift card"/>
               </div>
             </Card>
+            </a>
           </Col>
 
           <Col>
+          <a href="https://giftcards.thefork.com/es">
             <Card
               style={{
                 backgroundColor: "transparent",
@@ -74,14 +71,12 @@ export default function Giftcard() {
               }}
               onClick={() => console.log("Card clicked")}
             >
-              <div className="mr-4">
-                <img
-                  className="atvImg-layer"
-                  src={Bg3}
-                  alt="Buy a gold gift card"
-                />
+            <div className="mr-4">
+                <img className="atvImg-layer" src={Bg3} alt="Buy a gold gift card"/>
               </div>
+              
             </Card>
+            </a>
           </Col>
 
           
