@@ -8,29 +8,29 @@
     "nav_bar_Maps": "Mapas",
     
     "brand":{
-        "title":"¡Bienvenido a nuestro establecimiento!",
+        "title": "¡Bienvenido a nuestro establecimiento!",
         "subtitle1": "Continuamos elaborando deliciosos platos desde 1990",
         "subtitle2": "Llame al +34 952 478 351 para efectuar su reserva"
     },
 
     "history":{
         "title": "Nuestra historia",
-        "text1":"En nuestro establecimiento podrá disfrutar de una agradable velada con sus amigos, su pareja o su familia en un ambiente cálido y cercano, sobre un trato personalizado y profesional",
-        "text2":"Nuestro objetivo es que nuestros clientes experimenten un momento inolvidable. Para ello, nuestro staff les atenderá cordialmente, ofreciendoles una gran variedad de platos de primera calidad, basados en recetas tradicionales. Todo para que nunca olvide su visita a nuestro restaurante.",
-        "text3":"Nuestro deseo es esforzamos para ofrecerle la mejor calidad al mejor precio. Mas de tres decadas nos avalan."
+        "text1": "En nuestro establecimiento podrá disfrutar de una agradable velada con sus amigos, su pareja o su familia en un ambiente cálido y cercano, bajo un trato personalizado y profesional",
+        "text2": "Nuestro objetivo es que nuestros clientes experimenten un momento inolvidable. Para ello, nuestro staff les atenderá cordialmente, ofreciendoles una gran variedad de platos de primera calidad, basados en recetas tradicionales. Todo para que nunca olvide su visita a nuestro restaurante.",
+        "text3": "Nuestro deseo es esforzamos para ofrecerle la mejor calidad al mejor precio. Mas de tres decadas nos avalan."
 
     },
 
     "Satisfied":{
         "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. A mauris nisl elit massa duis est ut. Diam non urna imperdiet tempus. Amet pellentesque id tristique augue lacus sem vulputate sit lorem.",
-        "num1":"1550",
-        "num2":"125",
-        "num3":"35",
-        "num4":"18",
-        "subtitle1":"Invitados satisfechos",
-        "subtitle2":"Almuerzos todos los días",
-        "subtitle3":"Mesas familiares",
-        "subtitle4":"Miembros del equipo"
+        "num1": "1550",
+        "num2": "125",
+        "num3": "35",
+        "num4": "18",
+        "subtitle1": "Invitados satisfechos",
+        "subtitle2": "Almuerzos todos los días",
+        "subtitle3": "Mesas familiares",
+        "subtitle4": "Miembros del equipo"
     },
 
     "Offers":{
@@ -46,10 +46,10 @@
     },
     
     "price":{
-        "price1":"92,99€",
-        "price2":"92,99€",
-        "price3":"92,99€",
-        "price4":"92,99€"
+        "price1": "92,99€",
+        "price2": "92,99€",
+        "price3": "92,99€",
+        "price4": "92,99€"
 
     },
 
