@@ -39,8 +39,8 @@ export default function SpecialOffers() {
             <p className="h-subtitle bold textcolor ml-1 retangle" >{t('price.price2')}</p>
             </Col>
             <img className="imagOffers" src= {Img2} alt="Dish of the day"/>
-            <p className="h-subtitle bold mt-2" >{t('Offers.dish1')}</p>
-            <p className="p-subtitle mb-2" >{t('Offers.ingredient1')}</p>
+            <p className="h-subtitle bold mt-2" >{t('Offers.dish2')}</p>
+            <p className="p-subtitle mb-2" >{t('Offers.ingredient2')}</p>
 
             </Col>
             
@@ -49,8 +49,8 @@ export default function SpecialOffers() {
             <p className="h-subtitle bold textcolor ml-1 retangle" >{t('price.price3')}</p>
             </Col>
             <img className="imagOffers" src= {Img3} alt="Dish of the day"/>
-            <p className="h-subtitle bold mt-2" >{t('Offers.dish1')}</p>
-            <p className="p-subtitle mb-2" >{t('Offers.ingredient1')}</p>
+            <p className="h-subtitle bold mt-2" >{t('Offers.dish3')}</p>
+            <p className="p-subtitle mb-2" >{t('Offers.ingredient3')}</p>
 
             </Col>
             
@@ -59,8 +59,8 @@ export default function SpecialOffers() {
             <p className="h-subtitle bold textcolor ml-1 retangle" >{t('price.price4')}</p>
             </Col>
             <img className="imagOffers" src= {Img4} alt="Dish of the day"/>
-            <p className="h-subtitle bold mt-2" >{t('Offers.dish1')}</p>
-            <p className="p-subtitle mb-2" >{t('Offers.ingredient1')}</p>
+            <p className="h-subtitle bold mt-2" >{t('Offers.dish4')}</p>
+            <p className="p-subtitle mb-2" >{t('Offers.ingredient4')}</p>
 
             </Col>
         </Row>
