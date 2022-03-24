@@ -7,85 +7,67 @@
     "nav_bar_Bookings": "Reservaciones",
     "nav_bar_Map": "Mapa",
     "nav_bar_Assessments": "assessments",
-   
-    
-    "brand":{
+    "brand": {
         "title": "¡Bienvenido a nuestro establecimiento!",
         "subtitle1": "Continuamos elaborando deliciosos platos desde 1990",
         "subtitle2": "Llame al +34 952 478 351 para efectuar su reserva"
     },
-
-    "history":{
+    "history": {
         "title": "Nuestra historia",
-        "text1": "En nuestro establecimiento podrá disfrutar de una agradable velada con sus amigos, su pareja o su familia, en un ambiente cálido y cercano, bajo un trato personalizado y profesional",
+        "text1": "En nuestro establecimiento podrá disfrutar de una agradable velada con sus amigos, su pareja o su familia, en un ambiente cálido y cercano, bajo un trato profesional y personalizado.",
         "text2": "Nuestro objetivo es que nuestros clientes experimenten un momento inolvidable. Para ello, nuestro staff les atenderá cordialmente, ofreciendoles una gran variedad de platos de primera calidad, basados en recetas tradicionales. Todo para que nunca olvide su visita a nuestro restaurante.",
-        "text3": "Nuestro deseo es esforzamos para ofrecerle la mejor calidad al mejor precio. Mas de tres decadas nos avalan."
+        "text3": "Nuestro deseo es esforzamos para ofrecerle la mejor calidad al mejor precio. Más de tres décadas nos avalan."
     },
-
-    "Satisfied":{
-        "title": "El secreto de  nuestra cocina es mantener una selección de productos frescos de la zona elegida por nuestros cocineros y elaborada en el momento que usted lo solicita. Dispomos de  una extensa gama de variedades que puede degustar en nuestro refugio gastronómico abierto en 1984.",
-        "num1":"1550",
-        "num2":"125",
-        "num3":"35",
-        "num4":"18",
-        "subtitle1":"Invitados satisfechos",
-        "subtitle2":"Almuerzos todos los días",
-        "subtitle3":"Mesas familiares",
-        "subtitle4":"Miembros del equipo"
+    "Satisfied": {
+        "title": "El secreto de  nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. Dispomos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984.",
+        "num1": "1550",
+        "num2": "125",
+        "num3": "35",
+        "num4": "18",
+        "subtitle1": "Invitados satisfechos",
+        "subtitle2": "Almuerzos diarios",
+        "subtitle3": "Mesas familiares",
+        "subtitle4": "Staff"
     },
-
-    "Offers":{
-        "title": "Special Offers",
-        "dish1": "Sea Food Salada",
-        "dish2": "Salmon Orange",
-        "dish3": "Sea Bass",
-        "dish4": "Crab meat",
-        "ingredient1": "Avocado/ Salmon/ Olives",
-        "ingredient2": "Avocado/ Salmon/ Olives",
-        "ingredient3": "Avocado/ Salmon/ Olives",
-        "ingredient4": "Avocado/ Salmon/ Olives"
+    "Offers": {
+        "title": "Ofertas especiales",
+        "dish1": "Ensalada de marisco",
+        "dish2": "Salmón a la naranja",
+        "dish3": "Lubina al horno",
+        "dish4": "Ensalada vegetariana",
+        "ingredient1": "Aguacate / Gambas / Aceitunas",
+        "ingredient2": "Salsa / Salmón / Arándanos",
+        "ingredient3": "Salsa / Lubina / Ajo",
+        "ingredient4": "Aguacate / Zanahoria / Coliflor"
     },
-    
-    "price":{
-        "price1":"92,99€",
-        "price2":"92,99€",
-        "price3":"92,99€",
-        "price4":"92,99€"
-
+    "price": {
+        "price1": "15,90€",
+        "price2": "25,90€",
+        "price3": "24,90€",
+        "price4": "13,90€"
     },
-
-
-    "assignature":{
-        "Israel": "Israel,",
+    "assignature": {
+        "Israel": "Israel",
         "Cristobal": "Cristóbal"
     },
-    
-    "chefhistory":{
-        "title":"Nuestro Chef",
-        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Porta potenti eget condimentum amet nulla lorem erat in. Odio sagittis, leo dignissim in mattis eu suscipit in donec. Nibh nisl nunc nulla at sollicitudin imperdiet pretium. Elementum risus, id a urna. Mattis nunc quis non lobortis amet cursus quisque quis. Sit elementum sit feugiat nunc ultrices feugiat mattis rhoncus, feugiat. Elit elementum suspendisse aliquam ut sed porttitor tempus sagittis. Porttitor eleifend justo pellentesque augue enim. Id sed pharetra duis morbi tempor. Tempor justo, ipsum sit ipsum, donec commodo, et."
-
+    "chefhistory": {
+        "title": "Nuestro Chef",
+        "text": "El secreto de nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. Dispomos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984."
     },
-
-    "testimonials":{
+    "testimonials": {
         "title": "Testimonios"
     },
-
-
-    "copyright":{
+    "copyright": {
         "2022": "Todos los derechos reservados 2020®"
     },
-
-    "location":{
-        "local": "c/ de la Cruz, 17, 29640-Fuengirola (Málaga)",
+    "location": {
+        "local": "C/ de la Cruz 17, 29640 - Fuengirola (Málaga)",
         "phone": "+34 952478351 +34 660029570"
     },
-
-    "services":{
+    "services": {
         "title": "Reserva",
-        "text": "Reserva tu mesa",
-        "btn": "haz tu reserva",
-        "giftcard": "Tarjeta Regalo"
+        "text": "Reserve su mesa online",
+        "btn": "Reservar!",
+        "giftcard": "Tarjetas Regalo"
     }
-    
-
 }
