@@ -17,7 +17,7 @@ function Footer() {
           <Col xs={6} sm={4}>
             <img className="logosizefooter" src={Logo} alt="Don Pé Logo" />
           </Col>
-          <Col xs={6} sm={3} className="alignleft mt-3">
+          <Col xs={6} sm={4} className="alignleft mt-3">
             <a href="#home" className="ml-3 p-subtitle">
               {t("nav_bar_Home")}{" "}
             </a>
