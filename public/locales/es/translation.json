@@ -52,7 +52,8 @@
     },
     "chefhistory": {
         "title": "Nuestro Chef",
-        "text": "El secreto de nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. Dispomos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984."
+        "text1": "El secreto de nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. ",
+        "text2": "Dispomos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984."
     },
     "testimonials": {
         "title": "Testimonios"
