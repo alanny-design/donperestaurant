@@ -60,12 +60,13 @@
         "Israel": "Israel,",
         "Cristobal": "Cristóbal"
     },
-
-    "chefhistory":{
-        "title":"Our Chef",
-        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Porta potenti eget condimentum amet nulla lorem erat in. Odio sagittis, leo dignissim in mattis eu suscipit in donec. Nibh nisl nunc nulla at sollicitudin imperdiet pretium. Elementum risus, id a urna. Mattis nunc quis non lobortis amet cursus quisque quis. Sit elementum sit feugiat nunc ultrices feugiat mattis rhoncus, feugiat. Elit elementum suspendisse aliquam ut sed porttitor tempus sagittis. Porttitor eleifend justo pellentesque augue enim. Id sed pharetra duis morbi tempor. Tempor justo, ipsum sit ipsum, donec commodo, et."
-
+    
+    "chefhistory": {
+        "title": "Our Chef",
+        "text1": "El secreto de nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. ",
+        "text2": "Dispomos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984."
     },
+
 
     "testimonials":{
         "title": "Testimonials"
