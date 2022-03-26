@@ -9,7 +9,7 @@ import SpecialOffers from './components/section2/specialOffers/specialOffers';
 import BookingGiftcard from './components/section3/booking';
 import Chef from './components/section3/chef';
 import Testimonials from './components/section3/testimonials';
-import CarouselOffers from './components/section2/specialOffers/carousel/carouselOffers';
+
 
 
 
@@ -21,10 +21,10 @@ function App() {
     <Header/>
     <Brand/>
     <GridHistory/>
-    <Satisfied/>
     </section>
 
     <section id="Services">
+    <Satisfied/>
     <SpecialOffers/> 
     <Chef/>
     </section>

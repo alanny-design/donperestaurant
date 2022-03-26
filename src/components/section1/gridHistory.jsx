@@ -12,12 +12,12 @@ function GridHistory() {
         <>
             <Container className="bannerhistory mt-5">
                 <Row>
-                    <Col xs={6} sm={6} md={4} className="imgsize"><img src={Img2} alt="Don Pé Logo" />
+                    <Col xs={6} sm={6} md={4} lg={4} className="imgsize"><img src={Img2} alt="Don Pé" />
                     </Col>
-                    <Col xs={6} sm={6} md={4} className="imgsize"><img src={Img1} alt="Don Pé Logo" />
+                    <Col xs={6} sm={6} md={4} lg={4} className="imgsize"><img src={Img1} alt="Don Pé" />
                     </Col>
 
-                    <Col xs={12} sm={12} md={12} lg={5} className="mt-2 alignleft">
+                    <Col xs={12} sm={12} md={12} lg={6} className="mt-2 alignleft">
                         <p className="p-title bold mt-3 mb-0"> {t('history.title')}</p>
                         <div id="indicator"></div>
                         <span className="p-subtitle sizebox">
