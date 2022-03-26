@@ -73,6 +73,10 @@ body {
   font-size: 90%;
 }
 
+
+.p-ingredients{
+  font-size: 70%;
+}
 .centralized {
   display: flex;
   flex-direction: column;

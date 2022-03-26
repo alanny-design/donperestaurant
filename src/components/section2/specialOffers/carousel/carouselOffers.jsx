@@ -51,7 +51,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img1} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -60,7 +60,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img2} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -69,7 +69,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img3} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -78,7 +78,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img4} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -87,7 +87,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img5} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -96,7 +96,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img6} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -105,7 +105,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img7} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -114,7 +114,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img8} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -123,7 +123,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img9} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -132,7 +132,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img10} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -141,7 +141,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img11} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -150,7 +150,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img12} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -159,7 +159,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img13} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -168,7 +168,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img14} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -177,7 +177,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img15} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -186,7 +186,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img16} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
 
               <div id="item">
@@ -195,7 +195,7 @@ function CarouselOffers() {
                 </p>
                 <img src={Img17} alt="Dish of the day" />
                 <p className="h-subtitle bold mt-2">{t("Offers.dish4")}</p>
-                <p className="p-subtitle mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
               </div>
             </div>
           </div>
