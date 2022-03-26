@@ -11,9 +11,9 @@ function Chef() {
     <>
     <Container className="bannerchef">
         <Row>
-            <Col xs={12} sm={12} md={6} lg={6} className="imgcontainer mb-2"><img src= {Img1} alt="Don Pé Chef"/></Col>
-            <Col xs={12} sm={12} md={6} lg={6} className="marginmobile alignleft">
-            <p className="p-title bold mb-0"> {t('chefhistory.title')}</p>
+            <Col xs={12} sm={12} md={12} lg={6} className="imgcontainer mb-2"><img src= {Img1} alt="Don Pé Chef"/></Col>
+            <Col xs={12} sm={12} md={12} lg={6} className="marginmobile alignleft">
+            <p className="p-title bold mb-0 mt-3"> {t('chefhistory.title')}</p>
             <div id="indicator"></div>
             <p className="p-subtitle sizebox mb-0"> 
                     {t('chefhistory.text')}

@@ -12,10 +12,11 @@ export default function Giftcard() {
     const { t } = useTranslation()
   return (
     <>
-      <Container className="mt-2 mb-5">
+      <Container className="mb-5">
         <Row>
-        <Col> 
-            <p className="h-title textcolor mb-0 mt-5" >{t('services.giftcard')}</p>
+          
+        <Col className="mt-5"> 
+            <p className="h-title textcolor mb-0" >{t('services.giftcard')}</p>
             <div id="indicator2"></div>   
             </Col>
         </Row>

@@ -9,10 +9,10 @@ function Testimonials() {
   return (
     <>
     <Container fluid className='mt-5 mb-5'>
-        <Row>
-            <Col sm={12}>
-            <p className="h-title mb-0 mt-5" >{t('testimonials.title')}</p>
-            <div id="indicator2"></div>
+        <Row > 
+        <Col className="mt-5"> 
+            <p className="h-title mb-0" >{t('testimonials.title')}</p>
+            <div id="indicator3"></div>   
             </Col>
             <Col sm={12}>
             <img className="testimonials mt-5 mb-5" src= {Img1} alt="Dish of the day"/>

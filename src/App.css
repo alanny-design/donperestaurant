@@ -95,8 +95,8 @@ body {
   margin-bottom: 10px;
   left: 5%;
   bottom: 0;
-  width: 20%;
-  height: 1%;
+  width: 12%;
+  height: 1.5%;
   background-color: #fe9759;
   border-radius: 5px;
 }
@@ -104,7 +104,26 @@ body {
 #indicator2 {
   margin: auto;
   width: 10%;
-  height: 8%;
+  height: 15%;
+  background-color: #fe9759;
+  border-radius: 5px;
+}
+
+
+
+
+#indicator3 {
+  margin: auto;
+  width: 6%;
+  height: 20%;
+  background-color: #fe9759;
+  border-radius: 5px;
+}
+
+#indicator4 {
+  margin: auto;
+  width: 8%;
+  height: 10%;
   background-color: #fe9759;
   border-radius: 5px;
 }

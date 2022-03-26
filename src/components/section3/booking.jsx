@@ -11,8 +11,9 @@ export function Booking() {
     <>
     <Container>
       <Row>
-        <Col> 
-            <p className="h-title textcolor mb-0 mt-5" >{t('services.title')}</p>
+
+      <Col className="mt-5"> 
+            <p className="h-title textcolor mb-0" >{t('services.title')}</p>
             <div id="indicator2"></div>   
             </Col>
         </Row>

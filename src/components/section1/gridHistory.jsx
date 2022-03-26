@@ -17,21 +17,15 @@ function GridHistory() {
                     <Col xs={6} sm={6} md={4} className="imgsize"><img src={Img1} alt="Don Pé Logo" />
                     </Col>
 
-                    <Col xs={12} sm={12} md={6} className="mt-2 alignleft">
-                        <p className="p-title bold"> {t('history.title')}</p>
+                    <Col xs={12} sm={12} md={12} lg={5} className="mt-2 alignleft">
+                        <p className="p-title bold mt-3 mb-0"> {t('history.title')}</p>
                         <div id="indicator"></div>
-                        <p className="p-subtitle sizebox">
-                            {t('history.text1')}
-                        </p>
-                        <p className="p-subtitle sizebox">
-                            {t('history.text2')}
-                        </p>
-                        <p className="p-subtitle sizebox">
-                            {t('history.text3')}
-                        </p>
-                        <p className="assignature">
+                        <span className="p-subtitle sizebox">
+                            {t('history.text1')} {t('history.text2')} {t('history.text3')}
+                        </span> <br></br>
+                        <span className="assignature">
                             {t('assignature.Israel')}
-                        </p>
+                        </span>
                     </Col>
                 </Row>
             </Container>

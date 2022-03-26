@@ -9,6 +9,7 @@ import SpecialOffers from './components/section2/specialOffers/specialOffers';
 import BookingGiftcard from './components/section3/booking';
 import Chef from './components/section3/chef';
 import Testimonials from './components/section3/testimonials';
+import CarouselOffers from './components/section2/specialOffers/carousel/carouselOffers';
 
 
 
@@ -24,7 +25,7 @@ function App() {
     </section>
 
     <section id="Services">
-    <SpecialOffers/>
+    <SpecialOffers/> 
     <Chef/>
     </section>
     
