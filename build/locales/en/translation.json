@@ -5,7 +5,9 @@
     "nav_bar_Services": "Services",
     "nav_bar_Galery": "Photo Gallery",
     "nav_bar_Bookings": "Bookings",
-    "nav_bar_Maps": "Maps",
+    "nav_bar_Map": "Map",
+    "nav_bar_Assessments": "Assessments",
+    
 
     "brand":{
         "title":"We welcome you to our establishment",
@@ -22,7 +24,7 @@
     },
 
     "Satisfied":{
-        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. A mauris nisl elit massa duis est ut. Diam non urna imperdiet tempus. Amet pellentesque id tristique augue lacus sem vulputate sit lorem.",
+        "title": "The secret of our kitchen is to maintain a selection of fresh products from the area chosen by our chefs and prepared at the time you request it. We have a wide range of varieties that you can taste in our gastronomic refuge opened in 1984.",
         "num1":"1550",
         "num2":"125",
         "num3":"35",
@@ -56,13 +58,36 @@
 
     "assignature":{
         "Israel": "Israel,",
-        "Cristóbal": "Cristóbal"
+        "Cristobal": "Cristóbal"
     },
+    
+    "chefhistory": {
+        "title": "Our Chef",
+        "text1": "El secreto de nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. ",
+        "text2": "Disponemos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984."
+    },
+
 
     "testimonials":{
         "title": "Testimonials"
-    }
+    },
 
+
+    "copyright":{
+        "2022": "All rights reserved 2020®"
+    },
+
+    "location":{
+        "local": "c/ de la Cruz, 17, 29640-Fuengirola (Málaga)",
+        "phone": "+34 952478351 +34 660029570"
+    },
+
+    "services":{
+        "title": "Reservation",
+        "text": "Booking your table",
+        "btn": "make your reservation",
+        "giftcard": "Gift Cards"
+    }
 
 
     
