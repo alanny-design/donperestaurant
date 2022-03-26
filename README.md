@@ -27,7 +27,7 @@ then type:
 ```shell
 npm start
 ```
-Make sure that you have already installed the [node.js](https://nodejs.org/es/)
+Make sure that you have already installed the [node.js](https://nodejs.org/es/).
 Finally, open the browser at http://localhost:3000/ for viewing the website. 
 
 ## Licence 
