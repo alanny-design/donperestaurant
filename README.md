@@ -9,20 +9,27 @@ Feel free to join the project by finding issues or suggesting pull requests. Als
 <img src="https://raw.githubusercontent.com/alanny-design/donperestaurant/master/src/giphy-chefs-kiss.gif"/>
 
 ## Installation
-Install [Visual Studio](https://code.visualstudio.com/Download), open a terminal, clone the repository by
+Install [Visual Studio](https://code.visualstudio.com/Download), open a terminal, clone the repository by typing:
 ```shell
 git clone https://github.com/alanny-design/donperestaurant.git
 ```
-The navigate to the new folder:
+Make sure you have installed the [Git](https://git-scm.com/downloads) tool.
+
+Then navigate to the new folder:
 ```shell
 cd donperestaurant
 ```
-and type:
+and install all dependencies:
+```shell
+npm install
+```
+then type:
 ```shell
 npm start
 ```
+Make sure that you have already installed the [node.js](https://nodejs.org/es/)
 Finally, open the browser at http://localhost:3000/ for viewing the website. 
 
 ## Licence 
 
-MIT License - Copyright (c) 2021 Lane Art Design
+MIT License - Copyright (c) 2022 Lane Art Design
