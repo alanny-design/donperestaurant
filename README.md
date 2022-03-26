@@ -28,8 +28,8 @@ then type:
 npm start
 ```
 Make sure that you have already installed the [node.js](https://nodejs.org/es/).
-Finally, open the browser at http://localhost:3000/ for viewing the website. 
+Finally, open the browser at http://localhost:3000/ for visualizing the website. 
 
-## Licence 
+## License 
 
 MIT License - Copyright (c) 2022 Lane Art Design
