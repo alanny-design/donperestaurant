@@ -32,25 +32,25 @@ body {
   width: auto;
   height: 400px;
   margin: auto;
-  margin-top: 20px;
+  margin-top: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
   overflow-y: hidden !important;
 }
 
-@media only screen and (min-width: 1900px) {
+@media only screen and (min-width: 1500px) {
   .bannerhistory {
     background-color: white;
     width: 150%;
     height: 200%;
     margin: auto;
-    margin-top: 20%;
+    margin-top: 0;
     margin-bottom: 100px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
     overflow-y: hidden !important;
   }
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   .bannerhistory {
     background-color: white;
     width: 60%;
@@ -67,7 +67,7 @@ body {
   margin-right: 0;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   .sizebox {
     margin: 0%;
     margin-right: 0%;
@@ -95,7 +95,7 @@ body {
   margin-right: 0;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   .imgsize img{
     margin: 2%;
     padding: 0;
@@ -105,7 +105,17 @@ body {
   }
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
+  .imgsize{
+    margin: 0;
+    padding: 0;
+    width: 48%;
+    height: 90%;
+    object-fit: cover;
+  }
+}
+
+@media only screen and (min-width: 1900px) {
   .imgsize{
     margin: 0;
     padding: 0;
@@ -116,7 +126,7 @@ body {
 }
 
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   .mobileimg{
     display: flex;
     flex-direction: row;

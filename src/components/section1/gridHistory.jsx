@@ -12,7 +12,7 @@ function GridHistory() {
         <>
             <Container className="bannerhistory mt-5">
                 <Row className="mobileimg">
-                    <Col xs={3} sm={6} md={12} lg={5} className="imgsize">
+                    <Col xs={3} sm={6} md={12} lg={6} className="imgsize">
                         <img className="imagems" src={Img2} alt="Don Pé" />
                         <img className="imagems " src={Img1} alt="Don Pé" />
                     </Col>
