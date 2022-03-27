@@ -13,7 +13,7 @@ export function Booking() {
       <Row>
 
       <Col className="mt-5"> 
-            <p className="h-title textcolor mb-0" >{t('services.title')}</p>
+            <p className="h-title bold textcolor mb-0" >{t('services.title')}</p>
             <div id="indicator2"></div>   
             </Col>
         </Row>
