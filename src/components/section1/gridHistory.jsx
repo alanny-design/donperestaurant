@@ -14,18 +14,21 @@ function GridHistory() {
                 <Row className="mobileimg">
                     <Col xs={3} sm={6} md={12} lg={5} className="imgsize">
                         <img className="imagems" src={Img2} alt="Don Pé" />
-                        <img className="imagems "src={Img1} alt="Don Pé" />
+                        <img className="imagems " src={Img1} alt="Don Pé" />
                     </Col>
 
                     <Col xs={12} sm={12} md={12} lg={6} className="mt-2 alignleft">
                         <p className="p-title bold mt-3 mb-0"> {t('history.title')}</p>
                         <div id="indicator"></div>
-                        <span className="p-subtitle sizebox">
-                            {t('history.text1')} {t('history.text2')} {t('history.text3')}
-                        </span> <br></br>
-                        <span className="assignature">
+                        <p className="p-subtitle sizebox">
+                            {t('history.text1')}
+                        </p>
+                        <p className="p-subtitle sizebox">
+                            {t('history.text2')} {t('history.text3')}
+                        </p>
+                        <p className="assignature">
                             {t('assignature.Israel')}
-                        </span>
+                        </p>
                     </Col>
                 </Row>
             </Container>
