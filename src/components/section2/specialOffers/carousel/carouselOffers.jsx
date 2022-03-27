@@ -50,31 +50,31 @@ function CarouselOffers() {
                   {t("price.price1")}
                 </p>
                 <img src={Img1} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish1")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient1")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price2")}
                 </p>
                 <img src={Img2} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish2")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient2")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price3")}
                 </p>
                 <img src={Img3} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish3")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient3")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price4")}
                 </p>
                 <img src={Img4} alt="Dish of the day" />
                 <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
@@ -83,119 +83,119 @@ function CarouselOffers() {
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price5")}
                 </p>
                 <img src={Img5} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish5")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient5")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price6")}
                 </p>
                 <img src={Img6} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish6")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient6")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price7")}
                 </p>
                 <img src={Img7} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish7")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient7")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price8")}
                 </p>
                 <img src={Img8} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish8")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient8")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price9")}
                 </p>
                 <img src={Img9} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish9")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient9")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price10")}
                 </p>
                 <img src={Img10} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish10")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient10")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price11")}
                 </p>
                 <img src={Img11} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish11")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient11")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price12")}
                 </p>
                 <img src={Img12} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish12")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient12")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price13")}
                 </p>
                 <img src={Img13} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish13")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient13")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price14")}
                 </p>
                 <img src={Img14} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish14")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient14")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price15")}
                 </p>
                 <img src={Img15} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish15")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient15")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price16")}
                 </p>
                 <img src={Img16} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish16")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient16")}</p>
               </div>
 
               <div id="item">
                 <p className="p-subtitle bold textcolor ml-1 bgprice right">
-                  {t("price.price1")}
+                  {t("price.price17")}
                 </p>
                 <img src={Img17} alt="Dish of the day" />
-                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish4")}</p>
-                <p className="p-ingredients mb-2">{t("Offers.ingredient4")}</p>
+                <p className="p-subtitle bold mt-2 mb-0">{t("Offers.dish17")}</p>
+                <p className="p-ingredients mb-2">{t("Offers.ingredient17")}</p>
               </div>
             </div>
           </div>
