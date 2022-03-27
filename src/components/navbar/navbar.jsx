@@ -55,7 +55,7 @@ export const Header = () => {
       <Navbar
         collapseOnSelect
         expand="sm"
-        variant="light"
+        variant="dark"
         className="itemsNavbar"
       >
         <Nav navbarScroll>
