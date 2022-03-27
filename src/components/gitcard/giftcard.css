@@ -1,10 +1,19 @@
-
-.atvImg-layer{
-    height: auto;
-    width: 100%;
-    margin-top: 2%;
-    margin-bottom: 2%;
-
+.atvImg-layer {
+  height: auto;
+  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 
-
+@media only screen and (max-width: 600px) {
+  .mobile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    height: auto;
+    width: 60%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+}
