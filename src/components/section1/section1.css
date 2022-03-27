@@ -92,6 +92,7 @@ body {
 
 .imagems{
   margin: 2%;
+  margin-right: 0;
 }
 
 @media only screen and (max-width: 900px) {
