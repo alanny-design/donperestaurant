@@ -15,7 +15,7 @@ export default function SpecialOffers() {
         <Row>
             <Col>
             
-            <p className="h-title textcolor mb-0 mt-5" >{t('Offers.title')}</p>
+            <p className="h-title textcolor bold mb-0 mt-5" >{t('Offers.title')}</p>
             <div id="indicator4"></div>
             
             </Col>

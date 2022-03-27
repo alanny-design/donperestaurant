@@ -16,7 +16,7 @@ export default function Giftcard() {
         <Row>
           
         <Col className="mt-5"> 
-            <p className="h-title textcolor mb-0" >{t('services.giftcard')}</p>
+            <p className="h-title textcolor bold mb-0" >{t('services.giftcard')}</p>
             <div id="indicator2"></div>   
             </Col>
         </Row>

@@ -11,7 +11,7 @@ function Testimonials() {
     <Container fluid className='mt-5 mb-5'>
         <Row > 
         <Col className="mt-5"> 
-            <p className="h-title mb-0" >{t('testimonials.title')}</p>
+            <p className="h-title bold mb-0" >{t('testimonials.title')}</p>
             <div id="indicator3"></div>   
             </Col>
             <Col sm={12}>
