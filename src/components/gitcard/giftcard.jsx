@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import Card from "react-animated-3d-card";
 import { useTranslation } from "react-i18next";
 import "./giftcard.css";
-import Bg1 from "./img/bg1.png";
-import Bg2 from "./img/bg2.png";
-import Bg3 from "./img/bg3.png";
+import Bg1 from "./img/gif-card-2.png";
+import Bg2 from "./img/gif-card-1.png";
+import Bg3 from "./img/gif-card.png";
 
 
 
