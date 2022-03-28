@@ -1,8 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { useTranslation } from "react-i18next";
 import Card from "react-animated-3d-card";
-
+import { useTranslation } from "react-i18next";
 import "./giftcard.css";
 import Bg1 from "./img/bg1.png";
 import Bg2 from "./img/bg2.png";
@@ -37,13 +36,12 @@ export default function Giftcard() {
 
 
 export function Grids() {
-  const { t } = useTranslation();
   return (
     <>
       <Container className="mb-5 centralized">
         <Row className="mt-5 mobile">
           <Col>
-            <a href="https://giftcards.thefork.com/es" target="_blank">
+            <a href="https://giftcards.thefork.com/es" target="_blank" rel="noopener noreferrer">
               <Card 
                 style={{
                   backgroundColor: "transparent",
@@ -54,7 +52,7 @@ export function Grids() {
                 }}
                 onClick={() => console.log("Card clicked")}
               >
-                <div className="mr-4" href="https://giftcards.thefork.com/es" target="_blank">
+                <div className="mr-4">
                   <img
                     className="atvImg-layer"
                     src={Bg1}
@@ -66,7 +64,7 @@ export function Grids() {
           </Col>
 
           <Col>
-            <a href="https://giftcards.thefork.com/es" target="_blank">
+            <a href="https://giftcards.thefork.com/es" target="_blank" rel="noopener noreferrer">
               <Card
                 style={{
                   backgroundColor: "transparent",
@@ -77,7 +75,7 @@ export function Grids() {
                 }}
                 onClick={() => console.log("Card clicked")}
               >
-                <div className="mr-4" href="https://giftcards.thefork.com/es" target="_blank">
+                <div className="mr-4">
                   <img
                     className="atvImg-layer"
                     src={Bg2}
@@ -89,7 +87,7 @@ export function Grids() {
           </Col>
 
           <Col>
-            <a href="https://giftcards.thefork.com/es" target="_blank">
+            <a href="https://giftcards.thefork.com/es" target="_blank" rel="noopener noreferrer">
               <Card
                 style={{
                   backgroundColor: "transparent",

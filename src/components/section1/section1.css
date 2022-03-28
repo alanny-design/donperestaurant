@@ -5,7 +5,11 @@ body {
   background-position: top center;
   text-align: center;
   vertical-align: center;
-  height: 100%;
+  height: 100%; 
+}
+
+.section1{
+  background-image: radial-gradient(70.27% 70.27% at 50% 50%, #000000 0%, rgba(255, 255, 255, 0) 60%);
 }
 
 @media screen and (max-width: 900px) {

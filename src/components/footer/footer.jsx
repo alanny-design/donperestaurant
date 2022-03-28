@@ -7,6 +7,7 @@ import MapIcon from "./img/map-pin.svg";
 import PhoneIcon from "./img/phone.svg";
 import Facebook from "./img/facebook.svg";
 import Email from "./img/mail.svg";
+import {Lane} from "./laneLogo.jsx"
 
 function Footer() {
   const { t } = useTranslation();
@@ -39,18 +40,19 @@ function Footer() {
             </a>
           </Col>
 
-          <Col xs={12} sm={3}>
+          <Col xs={12} sm={4}>
             <Col className="d-flex justify-content-center mt-3">
-            <a className="iconsize" href="https://www.google.com/maps/place/C.+de+la+Cruz,+17,+15,+29640+Fuengirola,+M%C3%A1laga,+Espa%C3%B1a/@36.5386973,-4.623871,17z/data=!3m1!4b1!4m5!3m4!1s0xd72e26baa3b4569:0x69a38a1c66491bca!8m2!3d36.5386973!4d-4.6216823">
+              <a className="iconsize"
+                href="https://www.google.com/maps/place/C.+de+la+Cruz,+17,+15,+29640+Fuengirola,+M%C3%A1laga,+Espa%C3%B1a/@36.5386973,-4.623871,17z/data=!3m1!4b1!4m5!3m4!1s0xd72e26baa3b4569:0x69a38a1c66491bca!8m2!3d36.5386973!4d-4.6216823"
+                target="_blank" rel="noopener noreferrer">
                 <img src={MapIcon} alt="Don Pé location" />
-              </a>
                 <p className="p-subtitle textcolor m-0 d-flex justify-content-center">
                   {t("location.local")}
                 </p>
+              </a>
             </Col>
 
-            <Col>
-              <div className="d-flex justify-content-center">
+            <Col className="d-flex justify-content-center">
                 <img
                   className="iconsize"
                   src={PhoneIcon}
@@ -59,22 +61,32 @@ function Footer() {
                 <p className="p-subtitle textcolor m-0 d-flex justify-content-center">
                   {t("location.phone")}
                 </p>
-              </div>
+              
+            </Col>
+            <Col className="mt-3">
+            <a
+              href="https://www.facebook.com/restaurantedonpe" target="_blank" rel="noopener noreferrer"
+            ><img src={Facebook} alt="Facebook Account" />
+            </a>
+            <a
+              href="mailto: restaurantedonpe@hotmail.com" target="_blank" rel="noopener noreferrer"
+            ><img src={Email} alt="Email Adress" />
+            </a>
             </Col>
           </Col>
         </Row>
-        <Row>
-          <Col xs={4} sm={12} className="alignright m-0 ">
-          <a className="imgcontact" href="https://www.facebook.com/restaurantedonpe">
-                <img src={Facebook} alt="Facebook Account" />
-              </a>
-              <a className="imgcontact" href="mailto: restaurantedonpe@hotmail.com">
-                <img src={Email} alt="Email Adress" />
-              </a>
-            <p className="p-subtitle textcolor mb-2">
-              {t("copyright.2022")}
-            </p>
+        <Row className="d-flex justify-content-center" sm="auto">
+          <Col xs={12} sm={9}>
+            <p className="p-subtitle textcolor">
+            {t("copyright.privacity")} {t("copyright.pipe")} {t("copyright.2022")}</p>
+
           </Col>
+            <Col xs={12} sm={3} className="pointer alignmobile">
+            <a href="https://www.laneartdesign.studio/" target="_blank" rel="noopener noreferrer"
+            ><Lane/>
+            <p className="p-ingredients  textcolor"> {t("copyright.site")}</p>
+            </a>
+            </Col>
         </Row>
       </Container>
     </>

@@ -98,7 +98,10 @@
         "title": "Reviews"
     },
     "copyright": {
-        "2022": "All rights reserved 2022®"
+        "2022": "All rights reserved 2022®",
+        "privacity": "Privacy Policy",
+        "pipe": "|",
+        "site": "Site By: LaneArtDesign"
     },
     "location": {
         "local": "c/ de la Cruz 17, 29640 - Fuengirola (Málaga)",
