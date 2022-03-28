@@ -4,9 +4,9 @@
     "nav_bar_Home": "Inicio",
     "nav_bar_Services": "Servicios",
     "nav_bar_Galery": "Galería de fotos",
-    "nav_bar_Bookings": "Reservaciones",
+    "nav_bar_Bookings": "Reservas",
     "nav_bar_Map": "Mapa",
-    "nav_bar_Assessments": "assessments",
+    "nav_bar_Assessments": "Opiniones",
     "brand": {
         "title": "¡Bienvenido a nuestro establecimiento!",
         "subtitle1": "Continuamos elaborando deliciosos platos desde 1990",
@@ -19,13 +19,13 @@
         "text3": "Nuestro deseo es esforzamos para ofrecerle la mejor calidad al mejor precio. Más de tres décadas nos avalan."
     },
     "Satisfied": {
-        "title": "El secreto de  nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. Dispomos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984.",
+        "title": "El secreto de nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. Dispomos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984.",
         "num1": "1550",
         "num2": "125",
         "num3": "35",
         "num4": "18",
         "subtitle1": "Invitados satisfechos",
-        "subtitle2": "Almuerzos diarios",
+        "subtitle2": "Cenas diarias",
         "subtitle3": "Mesas familiares",
         "subtitle4": "Staff"
     },
@@ -34,17 +34,56 @@
         "dish1": "Ensalada de marisco",
         "dish2": "Salmón a la naranja",
         "dish3": "Lubina al horno",
-        "dish4": "Ensalada vegetariana",
-        "ingredient1": "Aguacate / Gambas / Aceitunas",
-        "ingredient2": "Salsa / Salmón / Arándanos",
-        "ingredient3": "Salsa / Lubina / Ajo",
-        "ingredient4": "Aguacate / Zanahoria / Coliflor"
+        "dish4": "Ensalada de cangrejo",
+        "dish5": "Costillas de cordero",
+        "dish6": "Ensalada vegetariana",
+        "dish7": "Ensalada vegetariana",
+        "dish8": "Ensalada vegetariana",
+        "dish9": "Ensalada vegetariana",
+        "dish10": "Lenguado al horno",
+        "dish11": "Ensalada vegetariana",
+        "dish12": "Ensalada vegetariana",
+        "dish13": "Ensalada vegetariana",
+        "dish14": "Ensalada vegetariana",
+        "dish15": "Ensalada vegetariana",
+        "dish16": "Ensalada vegetariana",
+        "dish17": "Ensalada vegetariana",
+        "ingredient1": "Salmón / Gambas / Aguacate",
+        "ingredient2": "Salmón / Salsa de Arándanos",
+        "ingredient3": "Lubina / Salsa de Ajo",
+        "ingredient4": "Cangrejo / Zanahoria / Aguacate",
+        "ingredient5": "Cordero",
+        "ingredient6": "Aguacate / Zanahoria / Coliflor",
+        "ingredient7": "Aguacate / Zanahoria / Coliflor",
+        "ingredient8": "Aguacate / Zanahoria / Coliflor",
+        "ingredient9": "Aguacate / Zanahoria / Coliflor",
+        "ingredient10": "Lenguado",
+        "ingredient11": "Aguacate / Zanahoria / Coliflor",
+        "ingredient12": "Aguacate / Zanahoria / Coliflor",
+        "ingredient13": "Aguacate / Zanahoria / Coliflor",
+        "ingredient14": "Aguacate / Zanahoria / Coliflor",
+        "ingredient15": "Aguacate / Zanahoria / Coliflor",
+        "ingredient16": "Aguacate / Zanahoria / Coliflor",
+        "ingredient17": "Aguacate / Zanahoria / Coliflor"
     },
     "price": {
         "price1": "15,90€",
         "price2": "25,90€",
         "price3": "24,90€",
-        "price4": "13,90€"
+        "price4": "13,90€",
+        "price5": "13,90€",
+        "price6": "13,90€",
+        "price7": "13,90€",
+        "price8": "13,90€",
+        "price9": "13,90€",
+        "price10": "13,90€",
+        "price11": "13,90€",
+        "price12": "13,90€",
+        "price13": "13,90€",
+        "price14": "13,90€",
+        "price15": "13,90€",
+        "price16": "13,90€",
+        "price17": "13,90€"
     },
     "assignature": {
         "Israel": "Israel",
@@ -56,17 +95,20 @@
         "text2": "Dispomos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984."
     },
     "testimonials": {
-        "title": "Testimonios"
+        "title": "Opiniones"
     },
     "copyright": {
-        "2022": "Todos los derechos reservados 2020®"
+        "2022": "Todos los derechos reservados 2022®",
+        "privacity": "Política de privacidad",
+        "pipe": "|",
+        "site": "Diseñado por: LaneArtDesign®"
     },
     "location": {
-        "local": "C/ de la Cruz 17, 29640 - Fuengirola (Málaga)",
+        "local": "Calle de la Cruz 17, 29640 - Fuengirola (Málaga)",
         "phone": "+34 952478351 +34 660029570"
     },
     "services": {
-        "title": "Reserva",
+        "title": "Reservas",
         "text": "Reserve su mesa online",
         "btn": "Reservar!",
         "giftcard": "Tarjetas Regalo"

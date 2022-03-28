@@ -6,90 +6,111 @@
     "nav_bar_Galery": "Photo Gallery",
     "nav_bar_Bookings": "Bookings",
     "nav_bar_Map": "Map",
-    "nav_bar_Assessments": "Assessments",
-    
-
-    "brand":{
-        "title":"We welcome you to our establishment",
-        "subtitle1": "Making delicious food since 1990.",
-        "subtitle2": "Booking or call +34 952 478 351"
+    "nav_bar_Assessments": "Reviews",
+    "brand": {
+        "title": "Welcome to our establishment!",
+        "subtitle1": "We go on making delicious dishes since 1990",
+        "subtitle2": "Call at +34 952 478 351 for bookings"
     },
-
-    "history":{
+    "history": {
         "title": "Our History",
-        "text1":"En nuestro restaurante podrá disfrutar de una agradable velada con sus amigos, su pareja o su familia en un ambiente cálido y cercano, un trato personalizado y una generosa amistad.",
-        "text2":"Queremos que nuestros clientes tengan una experiencia inolvidable, para ello, nuestro personal se ofrece a atenderles y servirles una buena variedad de platos de primera calidad, cocinados con recetas tradicionales, que le recordaran su visita por nuestro restaurante. Mas de tres décadas nos avalan.",
-        "text3":"Nos esforzamos para ofrecerle la mejor calidad al mejor precio."        
-
+        "text1": "In our establishment you can enjoy de una pleasant veil with your friends, your couple or your family in a friendly ambient, under a professional and personalized treatment.",
+        "text2": "Our goal is that our clients experience an unforgettable time. This is why our staff will attend you heartily, offering you a great variety of supreme dishes, based on tradicional recipes. All for you not to forget your visit at our restaurant.",
+        "text3": "We are willing to improve in order to offer the best quality at the best price. More than three decades is our warranty."
     },
-
-    "Satisfied":{
-        "title": "The secret of our kitchen is to maintain a selection of fresh products from the area chosen by our chefs and prepared at the time you request it. We have a wide range of varieties that you can taste in our gastronomic refuge opened in 1984.",
-        "num1":"1550",
-        "num2":"125",
-        "num3":"35",
-        "num4":"18",
-        "subtitle1":"Satisfied guests",
-        "subtitle2":"Lunches every day",
-        "subtitle3":"Family tables",
-        "subtitle4":"Team members"
+    "Satisfied": {
+        "title": "The secret of our kitchen is to maintain a selection of fresh and regional products, chosen by our chefs, and prepared right on time you request it. We have a wide range of varieties that you can taste in our gastronomic refuge since 1984.",
+        "num1": "1550",
+        "num2": "125",
+        "num3": "35",
+        "num4": "18",
+        "subtitle1": "Satisfied guests",
+        "subtitle2": "Daily dinners",
+        "subtitle3": "Family tables",
+        "subtitle4": "Staff"
     },
-
-    "Offers":{
+    "Offers": {
         "title": "Special Offers",
-        "dish1": "Sea Food Salada",
+        "dish1": "Sea Food Salad",
         "dish2": "Salmon Orange",
         "dish3": "Sea Bass",
-        "dish4": "Crab meat",
-        "ingredient1": "Avocado/ Salmon/ Olives",
-        "ingredient2": "Avocado/ Salmon/ Olives",
-        "ingredient3": "Avocado/ Salmon/ Olives",
-        "ingredient4": "Avocado/ Salmon/ Olives"
+        "dish4": "Crab Salad",
+        "dish5": "Lamb chops",
+        "dish6": "Ensalada vegetariana",
+        "dish7": "Ensalada vegetariana",
+        "dish8": "Ensalada vegetariana",
+        "dish9": "Ensalada vegetariana",
+        "dish10": "Grilled sole",
+        "dish11": "Ensalada vegetariana",
+        "dish12": "Ensalada vegetariana",
+        "dish13": "Ensalada vegetariana",
+        "dish14": "Ensalada vegetariana",
+        "dish15": "Ensalada vegetariana",
+        "dish16": "Ensalada vegetariana",
+        "dish17": "Ensalada vegetariana",
+        "ingredient1": "Salmon / Sprawns / Avocado",
+        "ingredient2": "Salmon / Cranberries souce",
+        "ingredient3": "Sea bass/ Garlic souce",
+        "ingredient4": "Crab / Carrot / Avocado",
+        "ingredient5": "Lamb",
+        "ingredient6": "Aguacate / Zanahoria / Coliflor",
+        "ingredient7": "Aguacate / Zanahoria / Coliflor",
+        "ingredient8": "Aguacate / Zanahoria / Coliflor",
+        "ingredient9": "Aguacate / Zanahoria / Coliflor",
+        "ingredient10": "Sole",
+        "ingredient11": "Aguacate / Zanahoria / Coliflor",
+        "ingredient12": "Aguacate / Zanahoria / Coliflor",
+        "ingredient13": "Aguacate / Zanahoria / Coliflor",
+        "ingredient14": "Aguacate / Zanahoria / Coliflor",
+        "ingredient15": "Aguacate / Zanahoria / Coliflor",
+        "ingredient16": "Aguacate / Zanahoria / Coliflor",
+        "ingredient17": "Aguacate / Zanahoria / Coliflor"
     },
-
-    "price":{
-        "price1":"92,99€",
-        "price2":"92,99€",
-        "price3":"92,99€",
-        "price4":"92,99€"
-
+    "price": {
+        "price1": "15,90€",
+        "price2": "25,90€",
+        "price3": "24,90€",
+        "price4": "13,90€",
+        "price5": "13,90€",
+        "price6": "13,90€",
+        "price7": "13,90€",
+        "price8": "13,90€",
+        "price9": "13,90€",
+        "price10": "13,90€",
+        "price11": "13,90€",
+        "price12": "13,90€",
+        "price13": "13,90€",
+        "price14": "13,90€",
+        "price15": "13,90€",
+        "price16": "13,90€",
+        "price17": "13,90€"
     },
-
-
-    "assignature":{
-        "Israel": "Israel,",
+    "assignature": {
+        "Israel": "Israel",
         "Cristobal": "Cristóbal"
     },
-    
     "chefhistory": {
         "title": "Our Chef",
-        "text1": "El secreto de nuestra cocina es mantener una selección de productos frescos y regionales, elegida por nuestros cocineros, y elaborada en el momento que usted lo solicita. ",
-        "text2": "Disponemos de una extensa gama de platos, los cuales puede degustar en nuestro refugio gastronómico desde 1984."
+        "text1": "The secret of our kitchen is to maintain a selection of fresh and regional products, chosen by our chefs, and prepared right on time you request it.",
+        "text2": "We have a wide range of varieties that you can taste in our gastronomic refuge since 1984."
     },
-
-
-    "testimonials":{
-        "title": "Testimonials"
+    "testimonials": {
+        "title": "Reviews"
     },
-
-
-    "copyright":{
-        "2022": "All rights reserved 2020®"
+    "copyright": {
+        "2022": "All rights reserved 2022®",
+        "privacity": "Privacy Policy",
+        "pipe": "|",
+        "site": "Designed by: LaneArtDesign®"
     },
-
-    "location":{
-        "local": "c/ de la Cruz, 17, 29640-Fuengirola (Málaga)",
+    "location": {
+        "local": "Calle de la Cruz 17, 29640 - Fuengirola (Málaga)",
         "phone": "+34 952478351 +34 660029570"
     },
-
-    "services":{
-        "title": "Reservation",
-        "text": "Booking your table",
-        "btn": "make your reservation",
+    "services": {
+        "title": "Booking",
+        "text": "Book your table online",
+        "btn": "Book now!",
         "giftcard": "Gift Cards"
     }
-
-
-    
-
 }
