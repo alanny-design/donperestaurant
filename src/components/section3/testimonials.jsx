@@ -14,7 +14,7 @@ function Testimonials() {
           <p className="h-title bold mb-0" >{t('testimonials.title')}</p>
           <div id="indicator3"></div>
         </Col>
-        <Col sm={12} className="">
+        <Col sm={12} className="mt-5">
           <CarouNuka />
         </Col>
       </Row>
