@@ -1,7 +1,5 @@
 import React from 'react';
 import Carousel from 'nuka-carousel';
-import Img1 from './img/testimonials.png';
-import Img2 from './img/testimonials2.png';
 import './style.css'
 import { Reviews1, Reviews2, Reviews3, Reviews4, Reviews5 } from './card-opiniones';
 
