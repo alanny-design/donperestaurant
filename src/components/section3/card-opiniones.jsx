@@ -13,7 +13,7 @@ export function Reviews1() {
           <img
             className="avatarsize"
             src="https://media-cdn.tripadvisor.com/media/photo-l/0c/46/86/58/pacoeli.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">Pacoeli</p>
         </Col>
@@ -42,7 +42,7 @@ export function Reviews2() {
           <img
             className="avatarsize"
             src="https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">Cogerlopalcirco</p>
         </Col>
@@ -72,7 +72,7 @@ export function Reviews3() {
           <img
             className="avatarsize"
             src="	https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">SurfWave M</p>
         </Col>
@@ -100,7 +100,7 @@ export function Reviews4() {
           <img
             className="avatarsize"
             src="https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/ca/default-avatar-2020-51.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">Javierd817</p>
         </Col>
@@ -129,7 +129,7 @@ export function Reviews5() {
           <img
             className="avatarsize"
             src="https://media-cdn.tripadvisor.com/media/photo-l/0e/43/29/11/raquel-a.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">RAQUEL A</p>
         </Col>

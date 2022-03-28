@@ -49,6 +49,7 @@ export default function CarouNuka() {
             withoutControls={false}
             transitionMode={"fade"}
             pauseOnHover={false}
+            slidesToShow='1'
             swiping={true}//Enable touch swipe/dragging
         //speed = {2000}
         >

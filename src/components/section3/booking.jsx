@@ -20,7 +20,8 @@ export function Booking() {
         <Row className="mt-5">
             <Col>
             <p className="p-title textcolor mb-0 mb-3">{t('services.text')} </p>
-            <button className="bnt-secundary mb-5">{t('services.btn')}</button>
+            <a href="mailto: restaurantedonpe@hotmail.com" target="_blank" rel="noopener noreferrer">
+            <button className="bnt-secundary mb-5">{t('services.btn')}</button></a>
             </Col>
         </Row>
         </Container>
