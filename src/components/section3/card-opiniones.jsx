@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 import "./style.css";
 
 export function Reviews1() {
-  const { t } = useTranslation();
+//   const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
