@@ -6,7 +6,7 @@
     "nav_bar_Galery": "Photo Gallery",
     "nav_bar_Bookings": "Bookings",
     "nav_bar_Map": "Map",
-    "nav_bar_Assessments": "Assessments",
+    "nav_bar_Assessments": "Reviews",
     "brand": {
         "title": "Welcome to our establishment!",
         "subtitle1": "We go on making delicious dishes since 1990",
@@ -95,7 +95,7 @@
         "text2": "We have a wide range of varieties that you can taste in our gastronomic refuge since 1984."
     },
     "testimonials": {
-        "title": "Testimonials"
+        "title": "Reviews"
     },
     "copyright": {
         "2022": "All rights reserved 2022®"
