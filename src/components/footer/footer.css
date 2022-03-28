@@ -55,6 +55,7 @@
 
 .alignmobile {
   text-align: right;
+  margin-right: 1%;
 }
 
 @media screen and (max-width: 600px) {
