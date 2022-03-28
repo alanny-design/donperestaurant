@@ -1,7 +1,7 @@
 import React from 'react';
 import Carousel from 'nuka-carousel';
 import './style.css'
-import { Reviews1, Reviews2, Reviews3, Reviews4, Reviews5 } from './card-opiniones';
+import { Reviews1, Reviews2, Reviews3, Reviews4, Reviews5 } from './cardReviews';
 
 
 
@@ -27,10 +27,6 @@ export const Prev = () => {
         </>
     )
 }
-
-
-
-
 
 
 export default function CarouNuka() {
@@ -61,5 +57,3 @@ export default function CarouNuka() {
         </Carousel>
     )
 }
-
-

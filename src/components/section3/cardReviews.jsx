@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { useTranslation } from "react-i18next";
+// import { useTranslation } from "react-i18next";
 
 import "./style.css";
 
@@ -34,7 +34,7 @@ export function Reviews1() {
 }
 
 export function Reviews2() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -64,7 +64,7 @@ export function Reviews2() {
 }
 
 export function Reviews3() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -92,7 +92,7 @@ export function Reviews3() {
 }
 
 export function Reviews4() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -121,7 +121,7 @@ export function Reviews4() {
 }
 
 export function Reviews5() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -146,6 +146,3 @@ export function Reviews5() {
     </Container>
   );
 }
-
-
-
