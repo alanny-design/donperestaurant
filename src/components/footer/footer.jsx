@@ -76,7 +76,7 @@ function Footer() {
           </Col>
         </Row>
         <Row className="d-flex justify-content-center" sm="auto">
-          <Col xs={12} sm={9}>
+          <Col xs={12} sm={8}>
             <p className="p-subtitle textcolor">
             {t("copyright.privacity")} {t("copyright.pipe")} {t("copyright.2022")}</p>
 
@@ -84,7 +84,7 @@ function Footer() {
             <Col xs={12} sm={3} className="pointer alignmobile">
             <a href="https://www.laneartdesign.studio/" target="_blank" rel="noopener noreferrer"
             ><Lane/>
-            <p className="p-ingredients  textcolor"> {t("copyright.site")}</p>
+            <p className="p-ingredients textcolor"> {t("copyright.site")}</p>
             </a>
             </Col>
         </Row>
