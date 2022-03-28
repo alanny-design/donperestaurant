@@ -3,6 +3,7 @@ import Carousel from 'nuka-carousel';
 import Img1 from './img/testimonials.png';
 import Img2 from './img/testimonials2.png';
 import './style.css'
+import { Reviews1, Reviews2, Reviews3, Reviews4, Reviews5 } from './card-opiniones';
 
 
 
@@ -53,8 +54,13 @@ export default function CarouNuka() {
             swiping={true}//Enable touch swipe/dragging
         //speed = {2000}
         >
-            <img src={Img1} className="carouselImg" alt='...' />
-            <img src={Img2} className="carouselImg" alt='...' />
+            <Reviews1 />
+            <Reviews2 />
+            <Reviews3 />
+            <Reviews4 />
+            <Reviews5 />
         </Carousel>
     )
 }
+
+
