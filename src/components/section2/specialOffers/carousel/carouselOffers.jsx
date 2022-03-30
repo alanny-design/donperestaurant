@@ -45,6 +45,7 @@ function CarouselOffers() {
     <>
       <div className="containercarousel">
         <div id="carousel" ref={carousel}>
+          
           <div id="items-wrapper">
             <div id="items">
               <div id="item">
