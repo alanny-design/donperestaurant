@@ -14,7 +14,7 @@
 
 #carousel {
   position: relative;
-  margin: auto;  
+  margin: auto;
   width: 80%;
   overflow-x: auto;
   scroll-behavior: smooth;
@@ -27,7 +27,7 @@
 
 #items-wrapper {
   width: 220px;
-  height: 290px;
+  height: 295px;
 }
 
 #items {
