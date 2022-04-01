@@ -1,11 +1,11 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { useTranslation } from "react-i18next";
+// import { useTranslation } from "react-i18next";
 
 import "./style.css";
 
 export function Reviews1() {
-  const { t } = useTranslation();
+//   const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -13,7 +13,7 @@ export function Reviews1() {
           <img
             className="avatarsize"
             src="https://media-cdn.tripadvisor.com/media/photo-l/0c/46/86/58/pacoeli.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">Pacoeli</p>
         </Col>
@@ -34,7 +34,7 @@ export function Reviews1() {
 }
 
 export function Reviews2() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -42,7 +42,7 @@ export function Reviews2() {
           <img
             className="avatarsize"
             src="https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">Cogerlopalcirco</p>
         </Col>
@@ -64,7 +64,7 @@ export function Reviews2() {
 }
 
 export function Reviews3() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -72,7 +72,7 @@ export function Reviews3() {
           <img
             className="avatarsize"
             src="	https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">SurfWave M</p>
         </Col>
@@ -92,7 +92,7 @@ export function Reviews3() {
 }
 
 export function Reviews4() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -100,7 +100,7 @@ export function Reviews4() {
           <img
             className="avatarsize"
             src="https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/ca/default-avatar-2020-51.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">Javierd817</p>
         </Col>
@@ -121,7 +121,7 @@ export function Reviews4() {
 }
 
 export function Reviews5() {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
   return (
     <Container className="centralized boxshadow mt-5 mb-5">
       <Row>
@@ -129,7 +129,7 @@ export function Reviews5() {
           <img
             className="avatarsize"
             src="https://media-cdn.tripadvisor.com/media/photo-l/0e/43/29/11/raquel-a.jpg"
-            alt="Don Pé avaliatinos"
+            alt="Don Pé reviews"
           />
           <p className="p-subtitle">RAQUEL A</p>
         </Col>
@@ -146,6 +146,3 @@ export function Reviews5() {
     </Container>
   );
 }
-
-
-

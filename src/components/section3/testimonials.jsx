@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
 import './style.css'
 
-import CarouNuka from './carousel-opiniones.jsx';
+import CarouNuka from './carouselReviews.jsx';
 
 function Testimonials() {
   const { t } = useTranslation()

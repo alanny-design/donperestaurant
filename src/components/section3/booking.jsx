@@ -14,23 +14,20 @@ export function Booking() {
 
       <Col className="mt-5 "> 
             <p className="h-title bold textcolor mb-0" >{t('services.title')}</p>
-            <div id="indicator2"></div>   
+            <div id="indicator2"></div>
             </Col>
         </Row>
         <Row className="mt-5">
             <Col>
             <p className="p-title textcolor mb-0 mb-3">{t('services.text')} </p>
-            <button className="bnt-secundary mb-5">{t('services.btn')}</button>
+            <a href="mailto: restaurantedonpe@hotmail.com" target="_blank" rel="noopener noreferrer">
+            <button className="bnt-secundary mb-5">{t('services.btn')}</button></a>
             </Col>
         </Row>
         </Container>
     </>
   )
 }
-
-
-
-
 
 function BookingGiftcard() {
   return (

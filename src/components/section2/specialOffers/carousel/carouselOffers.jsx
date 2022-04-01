@@ -30,19 +30,22 @@ function CarouselOffers() {
 
   const handleLeftClick = (e) => {
     e.preventDefault();
-    carousel.current.scrollLeft -= carousel.current.offsetWidth;
+    // carousel.current.scrollLeft -= carousel.current.offsetWidth;
+    carousel.current.scrollLeft -= 222;//Tamanho_da_imagem + left_margin + right_margin
   };
 
   const handleRightClick = (e) => {
     e.preventDefault();
 
-    carousel.current.scrollLeft += carousel.current.offsetWidth;
+    // carousel.current.scrollLeft += carousel.current.offsetWidth;
+    carousel.current.scrollLeft += 222;//Tamanho_da_imagem + left_margin + right_margin
   };
 
   return (
     <>
       <div className="containercarousel">
         <div id="carousel" ref={carousel}>
+          
           <div id="items-wrapper">
             <div id="items">
               <div id="item">
